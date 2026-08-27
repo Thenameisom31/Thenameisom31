@@ -1,108 +1,262 @@
-<h1 align="center">Onkar Patil</h1>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Onkar%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <b>Java Backend Developer · Spring Boot · REST APIs · Final Year CS Undergrad</b>
+<a href="mailto:omkarpatil3516@gmail.com"><img src="https://img.shields.io/badge/Gmail-omkarpatil3516-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/onkar-patil-84bb92339/"><img src="https://img.shields.io/badge/LinkedIn-Onkar%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Thenameisom31"><img src="https://img.shields.io/badge/GitHub-Thenameisom31-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="mailto:omkarpatil3516@gmail.com"><img src="https://img.shields.io/badge/Gmail-omkarpatil3516-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/onkar-patil-84bb9233"><img src="https://img.shields.io/badge/LinkedIn-Onkar%20Patil-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/thenameisom31"><img src="https://img.shields.io/badge/GitHub-thenameisom31-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=thenameisom31&style=flat-square&color=0e75b6"/>
+<a href="https://leetcode.com/u/Thenameisom_31/"><img src="https://img.shields.io/badge/LeetCode-Thenameisom__31-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/omkarpatil3516"><img src="https://img.shields.io/badge/HackerRank-omkarpatil3516-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Thenameisom31&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
 </p>
 
----
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;Full-Stack+Developer;Computer+Science+Graduate&center=true&size=28">
+</p>
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### About
-
-Final Year B.Tech CS @ **Shivaji University, Kolhapur** (2022–2026). Former **Java Developer Intern** at Platominds Services Pvt. Ltd. Passionate about building scalable backend systems with Java & Spring Boot. National-level hackathon winner with strong problem-solving credentials.
-
-- 🔭 Working on **Spring Boot microservices**
-- 🌱 Exploring **cloud-native Java & system design**
-- 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs**
-- 📫 **omkarpatil3516@gmail.com** · 📞 +91-9036618237
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+<h3 align="center">🚀 Java | Spring Boot | REST APIs | Full-Stack Development</h3>
 
 ---
 
-### Experience
+# 👋 About Me
 
-**Java Developer Intern** · Platominds Services Pvt. Ltd. · *Jun – Aug 2025*
-- Built 5+ backend modules (Core Java, JDBC, Hibernate, Spring Boot) supporting 100+ concurrent users
-- Reduced manual processing errors by **25%** via authentication & order management workflows
-- Improved API response time by **30%** through Hibernate & SQL query optimization
+🎓 **B.Tech in Computer Science** — Shivaji University, Kolhapur *(Graduated May 2026)*
+
+💻 Java Backend Developer proficient in **Spring Boot, Hibernate/JPA & REST APIs**, with hands-on experience building enterprise backend applications
+
+🏗️ Skilled in **OOP, design patterns (MVC, DAO, Singleton)** and SQL optimization within **Agile/Scrum SDLC** workflows
+
+🏆 **National Level 3rd Prize Winner** & **Technovation 1.0 Hackathon Winner**
+
+🌱 Currently exploring **cloud-native Java, system design & full-stack development**
+
+💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs, System Design**
+
+📫 **omkarpatil3516@gmail.com** · 📞 +91-9036618237
 
 ---
 
-### Projects
+# 🛠 Tech Stack
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **EcoMart** – Organic Store | Spring Boot, Hibernate, Thymeleaf | 10+ REST APIs, Spring Security for 100+ users, query indexing |
-| **Face & Eye Detection** | Python, OpenCV, Haar Cascade | 90%+ accuracy, 20+ FPS real-time video processing |
-| **Car Rental System** | Java, JDBC, MySQL | 500+ records, full CRUD, 40% fewer booking errors |
-
----
-
-### Tech Stack
+**Languages**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,cs,py,cpp,c"/>
 </p>
 
+**Backend & Enterprise**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+</p>
+
+REST APIs · JDBC · Thymeleaf · Java EE (Servlets, JSP)
+
+**Frontend**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,html,css,js"/>
+</p>
+
+**Databases**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+**Tools & IDEs**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse"/>
+</p>
+
+NetBeans
+
+**Libraries**
+
+Pandas · NumPy · OpenCV
+
+**AI & LLM Tools**
+
+ChatGPT · GitHub Copilot · Cursor · Gemini · Claude · Google AI Studio · Firebase AI · Antigravity
+
 ---
 
-### Achievements
+# 💼 Experience
 
-🥇 **Technovation 1.0 Mini Hackathon** – Winner, BSIET Kolhapur (Nov 2025) &nbsp;·&nbsp;
-🥉 **ANUTTARA 2025** – National Level – 3rd Prize (Oct 2025) &nbsp;·&nbsp;
-✅ **Java & SQL Certified** – HackerRank &nbsp;·&nbsp;
-🔥 **160-Day DSA Program** – GeeksforGeeks
+## Java Developer Intern — Platominds Services Pvt. Ltd.
+
+*Jun 2025 – Aug 2025*
+
+- Engineered **5+ scalable backend modules** using Core Java, JDBC, Hibernate (JPA) & Spring Boot supporting **100+ concurrent users**
+- Architected authentication and order management workflows applying **MVC & DAO** design patterns
+
+📈 **25% reduction** in manual processing errors through systematic debugging & issue resolution
+
+- Optimized Hibernate/JPA configurations and SQL queries
+
+📈 **30% faster** API response time
+
+- Collaborated in a **4-member Agile/Scrum team** — sprint planning, peer code reviews, technical documentation
 
 ---
+
+# 🚀 Projects
+
+## EcoMart — Online Organic Product Store
+
+*Jun 2025 – Aug 2025*
+
+Full-stack **e-commerce web app**
+
+Tech
+
+- Java
+- Spring Boot
+- Hibernate (JPA)
+- Thymeleaf
+- Spring Security
+
+Highlights
+
+```
+10+ RESTful APIs
+Role-based authentication for 100+ users
+Query indexing & schema optimization
+```
+
+---
+
+## Face and Eye Detection System
+
+*Jan 2026 – Feb 2026*
+
+Real-time **computer vision application**
+
+Tech
+
+- Python
+- OpenCV
+- Haar Cascade
+
+Performance
+
+```
+90%+ detection accuracy
+20+ FPS live video processing
+Real-time eye-state classification
+```
+
+---
+
+## Car Rental System
+
+*Jan 2023 – Mar 2023*
+
+Java-based **booking & inventory system**
+
+Tech
+
+- Java
+- JDBC
+- MySQL
+
+Performance
+
+```
+500+ records managed via DAO pattern
+Full CRUD functionality
+40% fewer booking errors
+```
+
+---
+
+# 🏆 Achievements & Certifications
+
+🥇 **Technovation 1.0 Mini Hackathon** — Winner, BSIET Kolhapur (Nov 2025)
+
+🥉 **ANUTTARA 2025** — National Level Technical Symposium, 3rd Prize (Oct 2025)
+
+✅ **Java (Basic) Certification** — HackerRank (Feb 2025)
+
+✅ **SQL (Basic) Certification** — HackerRank (2025)
+
+🔥 **160-Day Problem Solving Program** — GeeksforGeeks (2025)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=thenameisom31&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisom31&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thenameisom31&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thenameisom31&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thenameisom31&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thenameisom31&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Thenameisom_31?theme=dark&font=Baloo%202&ext=heatmap"/>
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Thenameisom31/Thenameisom31/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Thenameisom31">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://www.linkedin.com/in/onkar-patil-84bb92339/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:omkarpatil3516@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+<p align="center">
+<a href="https://leetcode.com/u/Thenameisom_31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/omkarpatil3516"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Thenameisom31&label=Visitors&color=blue&style=flat"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
